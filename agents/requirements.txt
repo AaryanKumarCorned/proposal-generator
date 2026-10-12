@@ -1,0 +1,4 @@
+pydantic-ai==2.55.0
+python-dotenv
+ruff
+pytest
